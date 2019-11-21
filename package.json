@@ -50,7 +50,7 @@
     "pushbullet": "^1.4.3",
     "rc": "~0.5.0",
     "request": "2.45.0",
-    "sails": "^0.11.0",
+    "sails": "^0.12.0",
     "sails-disk": "~0.10.0",
     "sails-hook-hookloader": "~0.2.0",
     "sails-memory": "~0.10.3",
