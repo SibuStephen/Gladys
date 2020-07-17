@@ -56,7 +56,7 @@
     "sails-memory": "~0.10.3",
     "sails-mysql": "~0.10.7",
     "sails-util-mvcsloader": "^0.3.0",
-    "serialport": "^2.0.5",
+    "serialport": "^6.0.0",
     "speaker": "^0.2.6"
   },
   "devDependencies": {
