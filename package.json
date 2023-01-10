@@ -34,7 +34,7 @@
     "grunt-contrib-jst": "~0.6.0",
     "grunt-contrib-less": "0.11.1",
     "grunt-contrib-uglify": "~0.4.0",
-    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-watch": "~0.6.0",
     "grunt-mocha-test": "^0.12.7",
     "grunt-sails-linker": "~0.9.5",
     "grunt-sync": "~0.0.4",
@@ -50,14 +50,14 @@
     "pushbullet": "^1.4.3",
     "rc": "~0.5.0",
     "request": "2.45.0",
-    "sails": "^0.11.0",
+    "sails": "^1.0.0",
     "sails-disk": "~0.10.0",
     "sails-hook-hookloader": "~0.2.0",
     "sails-memory": "~0.10.3",
     "sails-mysql": "~0.10.7",
     "sails-util-mvcsloader": "^0.3.0",
-    "serialport": "^2.0.5",
-    "speaker": "^0.2.6"
+    "serialport": "^6.0.0",
+    "speaker": "^0.4.0"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
