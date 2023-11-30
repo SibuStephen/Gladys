@@ -50,13 +50,13 @@
     "pushbullet": "^1.4.3",
     "rc": "~0.5.0",
     "request": "2.45.0",
-    "sails": "^0.11.0",
-    "sails-disk": "~0.10.0",
+    "sails": "^1.5.1",
+    "sails-disk": "~1.0.0",
     "sails-hook-hookloader": "~0.2.0",
     "sails-memory": "~0.10.3",
     "sails-mysql": "~0.10.7",
     "sails-util-mvcsloader": "^0.3.0",
-    "serialport": "^2.0.5",
+    "serialport": "^6.0.0",
     "speaker": "^0.2.6"
   },
   "devDependencies": {
